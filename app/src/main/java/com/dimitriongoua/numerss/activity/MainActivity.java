@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
     private String mFeedLink;
     private String mFeedDescription;
     private String URL_FEED = "https://www.numerama.com/feed/";
+    // Yep
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
